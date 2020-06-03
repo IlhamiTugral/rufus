@@ -125,7 +125,7 @@ msgstr "Rufus Lisansı"
 
 #. • IDD_NOTIFICATION → IDC_MORE_INFO
 msgid "More information"
-msgstr "Daha fazla bilgi"
+msgstr "Daha Fazla Bilgi"
 
 #. • IDD_NOTIFICATION → IDYES
 #. • MSG_008
@@ -159,11 +159,11 @@ msgstr "Ayarlar"
 
 #. • IDD_UPDATE_POLICY → IDS_UPDATE_FREQUENCY_TXT
 msgid "Check for updates"
-msgstr "Güncellemeleri denetle"
+msgstr "Güncellemeleri Denetle"
 
 #. • IDD_UPDATE_POLICY → IDS_INCLUDE_BETAS_TXT
 msgid "Include beta versions"
-msgstr "Beta sürümlerini içersin"
+msgstr "Beta Sürümlerini İçersin"
 
 #. • IDD_UPDATE_POLICY → IDC_CHECK_NOW
 msgid "Check Now"
@@ -175,7 +175,7 @@ msgstr "Güncellemeleri Denetle - Rufus"
 
 #. • IDD_NEW_VERSION → IDS_NEW_VERSION_AVAIL_TXT
 msgid "A newer version is available. Please download the latest version!"
-msgstr "Yeni bir sürüm mevcut. Lütfen son sürümü indirin!"
+msgstr "Yeni bir sürüm mevcut. Lütfen güncel sürümü indirin!"
 
 #. • IDD_NEW_VERSION → IDC_WEBSITE
 msgid "Click here to go to the website"
@@ -437,7 +437,7 @@ msgstr "Aygıt başka bir işlem tarafından kullanılıyor. Lütfen aygıta eri
 
 #. • MSG_056
 msgid "Quick format is not available for this device."
-msgstr "Bu aygıt için Hızlı Biçimlendirme yapılamaz."
+msgstr "Bu aygıt için hızlı biçimlendirme yapılamaz."
 
 #. • MSG_057
 msgid "The volume label is invalid."
@@ -717,11 +717,11 @@ msgstr ""
 
 #. • MSG_106
 msgid "Please select folder"
-msgstr "Lütfen Klasör Seçin"
+msgstr "Lütfen klasör seçin"
 
 #. • MSG_107
 msgid "All files"
-msgstr "Tüm Dosyalar"
+msgstr "Tüm dosyalar"
 
 #. • MSG_108
 msgid "Rufus log"
@@ -958,11 +958,11 @@ msgstr "Bu komutu çalıştırmak için PowerShell 3.0 veya üstü gerekir."
 
 #. • MSG_146
 msgid "Do you want to go online and download it?"
-msgstr "Çevrimiçi olmak ve indirmek istiyor musunuz?"
+msgstr "Çevrimiçi olarak indirmek istiyor musunuz?"
 
 #. • MSG_148
 msgid "Running download script..."
-msgstr "İndirme komutu çalıştırılıyor ..."
+msgstr "İndirme komutu çalıştırılıyor..."
 
 #. • MSG_149
 msgid "Download ISO Image"
@@ -1000,7 +1000,7 @@ msgstr "Deneme Düzeni: 0x%02X, 0x%02X, 0x%02X, 0x%02X"
 
 #. • MSG_157
 msgid "Sets the target filesystem"
-msgstr "Hedef Dosya Sistemini Ayarlar"
+msgstr "Hedef dosya sistemini ayarlar"
 
 #. • MSG_158
 msgid "Minimum size that a block of data will occupy in the filesystem"
@@ -1036,7 +1036,7 @@ msgstr "Sürücüyü açılabilir yapmak için kullanılacak yöntem"
 
 #. • MSG_165
 msgid "Click to select or download an image..."
-msgstr "İmaj seçmek ya da indirmek için tıklayın..."
+msgstr "İmajı seçmek veya indirmek için tıklayın..."
 
 #. • MSG_166
 msgid "Check this box to allow the display of international labels and set a device icon (creates an autorun.inf)"
@@ -1095,7 +1095,7 @@ msgstr "Sürüm %d.%d (Yapı %d)"
 
 #. • MSG_176
 msgid "English translation: Pete Batard <mailto:pete@akeo.ie>"
-msgstr "Türkçe Çeviri: Mehmetali KURAN <mailto:mehmetalikuran@gmail.com>"
+msgstr "Türkçe Çeviri: Mehmetali KURAN <mailto:mehmetalikuran@gmail.com>, İlhami TUĞRAL <mailto:ilhamitugral@gmail.com>"
 
 #. • MSG_177
 msgid "Report bugs or request enhancements at:"
@@ -1131,7 +1131,7 @@ msgstr "Özel kullanım istatistikleri oluşturmak amacıyla, bilgi toplamaya \\
 
 #. • MSG_185
 msgid "Update Process:"
-msgstr "Güncelleme İlerlemesi:"
+msgstr "Güncelleme Durumu:"
 
 #. • MSG_186
 msgid ""
@@ -1262,7 +1262,7 @@ msgstr "Vazgeçildi"
 
 #. • MSG_212
 msgid "Failed"
-msgstr "BAŞARISIZ"
+msgstr "Başarısız"
 
 #. • MSG_213
 #.
@@ -1278,13 +1278,13 @@ msgstr "Yeni uygulama başlatılamadı"
 #.
 #. Example: "Opened some_file.txt"
 msgid "Opened %s"
-msgstr "%s Açıldı"
+msgstr "%s açıldı"
 
 #. • MSG_216
 #.
 #. Example: "Saved rufus.log"
 msgid "Saved %s"
-msgstr "%s Kaydedildi"
+msgstr "%s kaydedildi"
 
 #. • MSG_217
 #.
@@ -1352,7 +1352,7 @@ msgstr "DOS Dosyaları Kopyalanıyor..."
 
 #. • MSG_231
 msgid "Copying ISO files: %s"
-msgstr "ISO Dosyaları Kopyalanıyor: %s"
+msgstr "ISO dosyaları kopyalanıyor: %s"
 
 #. • MSG_232
 msgid "Win7 EFI boot setup (This may take a while)..."
@@ -1367,7 +1367,7 @@ msgstr "Bitiriliyor, Lütfen Bekleyin..."
 #. Takes a Syslinux version as parameter.
 #. Example: "Installing Syslinux v5.10..."
 msgid "Installing Syslinux %s..."
-msgstr "Syslinux %s Yükleniyor..."
+msgstr "Syslinux %s yükleniyor..."
 
 #. • MSG_235
 #.
@@ -1454,11 +1454,11 @@ msgstr "%s devre dışı"
 
 #. • MSG_252
 msgid "Size checks"
-msgstr "Boyut Denetlemeleri"
+msgstr "Boyut denetlemeleri"
 
 #. • MSG_253
 msgid "Hard disk detection"
-msgstr "Sabit Disk Algılama"
+msgstr "Sabit disk algılama"
 
 #. • MSG_254
 msgid "Force large FAT32 formatting"
@@ -1502,7 +1502,7 @@ msgstr "ISO Desteği"
 #.
 #. Cheat mode to force legacy size units, where 1 KB is 1024 bytes and NOT that fake 1000 bytes abomination!
 msgid "Use PROPER size units"
-msgstr "UYGUN boyutta birimleri kullanın"
+msgstr "Uygun boyutta birimleri kullanın"
 
 #. • MSG_264
 msgid "Deleting directory '%s'"
@@ -1530,7 +1530,7 @@ msgstr "Zaman damgalarını koruma"
 
 #. • MSG_270
 msgid "USB debug"
-msgstr "USB Hata Ayıklama"
+msgstr "USB hata ayıklama"
 
 #. • MSG_271
 msgid "Computing image checksums: %s"
